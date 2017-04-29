@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorPrimary" >
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_dark"
+        android:padding="5dp"
+        android:id="@+id/htop" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/settings"
+            android:textColor="@android:color/background_light"
+            android:textStyle="bold"
+            android:gravity="center_vertical"
+            android:layout_marginStart="25dp"
+            android:layout_gravity="center_vertical"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"/>
+
+        <ImageView
+            android:id="@+id/saveset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_save_white"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/printingsupport"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginBottom="5dp" >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginTop="10dp" >
+
+            <ImageView
+                android:layout_width="105dp"
+                android:layout_height="75dp"
+                android:src="@drawable/smartd90logo"/>
+
+            <TextView
+                android:layout_width="100sp"
+                android:layout_height="wrap_content"
+                android:text="@string/photoprinter"
+                android:textSize="25sp"
+                android:layout_marginStart="10dp"
+                android:textColor="?attr/colorPrimaryDark"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linehotfolder"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:text="@string/hotfolder"
+                android:textSize="15sp"
+                android:textColor="?attr/colorPrimaryDark"
+                android:lines="1"
+                android:gravity="center_vertical" />
+
+            <EditText
+                android:layout_width="200sp"
+                android:layout_height="wrap_content"
+                android:maxLength="130"
+                android:inputType="textPhonetic"
+                android:id="@+id/hotfolder"
+                android:textColor="?attr/colorPrimaryDark"
+                android:gravity="center_vertical"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ftp"
+        android:textColor="#ffffffff"
+        android:background="?attr/colorPrimaryDark"
+        android:textSize="15sp"
+        android:layout_marginStart="25dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:id="@+id/ftpset">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:text="@string/host"
+                android:textSize="15sp"
+                android:textColor="?attr/colorPrimaryDark"
+                android:lines="1"
+                android:gravity="center_vertical" />
+
+            <EditText
+                android:layout_width="200sp"
+                android:layout_height="wrap_content"
+                android:maxLength="130"
+                android:inputType="textPhonetic"
+                android:id="@+id/ftphost"
+                android:gravity="center_vertical"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:text="@string/port"
+                android:textSize="15sp"
+                android:lines="1"
+                android:gravity="center_vertical" />
+
+            <EditText
+                android:layout_width="50sp"
+                android:layout_height="wrap_content"
+                android:maxLength="130"
+                android:id="@+id/ftpport"
+                android:gravity="center_vertical"
+                android:inputType="number" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:text="@string/user"
+                android:textSize="15sp"
+                android:lines="1"
+                android:gravity="center_vertical" />
+
+            <EditText
+                android:layout_width="100sp"
+                android:layout_height="wrap_content"
+                android:maxLength="130"
+                android:inputType="textPhonetic"
+                android:id="@+id/ftpuser"
+                android:gravity="center_vertical"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:text="@string/pass"
+                android:textSize="15sp"
+                android:lines="1"
+                android:gravity="center_vertical" />
+
+            <EditText
+                android:layout_width="100sp"
+                android:layout_height="wrap_content"
+                android:maxLength="130"
+                android:inputType="textPhonetic"
+                android:id="@+id/ftppass"
+                android:gravity="center_vertical"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmartD90 Photo Print</string>
+    <string name="sendingimage">Sending image &#8230; </string>
+    <string name="settings">Settings </string>
+    <string name="photoprinter">Photo Printer</string>
+    <string name="ftp">Ftp Settings:</string>
+    <string name="hotfolder">HotFolder</string>
+    <string name="host">Host: </string>
+    <string name="port">Port: </string>
+    <string name="user">User: </string>
+    <string name="pass">Password: </string>
+    <string name="saving">Saving &#8230; </string>
+    <string name="exitapp">Exit App ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="noimage">No image to print</string>
+    <string name="checkwifi">Check WiFi Settings</string>
+</resources>
