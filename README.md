@@ -3,7 +3,7 @@
 <p>The SmartD90PhotoPrint app for Android is a sample app to support the integration of print functionalities into the Android Smartphones using the SmartD90 Photo Printer by Mitsubishi Electric.</p>
 <p><img src="http://www.motionstudios.es/edu/php/smartd90/smartd90.png" alt="SmartD90" width="340" height="310" /></p>
 <p>&nbsp;</p>
-<table>
+<table table border="0">
 <tbody>
 <tr>
 <td><img src="http://www.motionstudios.es/edu/php/smartd90/screen1.png" alt="FTP settings" width="174" height="310" /></td>
