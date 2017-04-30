@@ -6,9 +6,9 @@
 <table table border="0">
 <tbody>
 <tr>
-<td><img src="http://www.motionstudios.es/edu/php/smartd90/screen1.png" alt="FTP settings" width="174" height="310" /></td>
-<td><img src="http://www.motionstudios.es/edu/php/smartd90/screen2.png" alt="Phoro&quot;" width="174" height="310" /></td>
-<td><img src="http://www.motionstudios.es/edu/php/smartd90/screen3.png" alt="Printing" width="174" height="310" /></td>
+<td><img src="http://www.motionstudios.es/edu/php/smartd90/screen1.png" alt="FTP settings" width="174" height="310" border="0" /></td>
+<td><img src="http://www.motionstudios.es/edu/php/smartd90/screen2.png" alt="Phoro&quot;" width="174" height="310" border="0" /></td>
+<td><img src="http://www.motionstudios.es/edu/php/smartd90/screen3.png" alt="Printing" width="174" height="310" border="0" /></td>
 </tr>
 </tbody>
 </table>
