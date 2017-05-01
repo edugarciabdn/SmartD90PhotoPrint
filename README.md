@@ -26,6 +26,8 @@
 <p>&nbsp;</p>
 <p><strong><span style="text-decoration: underline;">This App is not a Mitsubishi Electric product.</span></strong></p>
 <p>&nbsp;</p>
+<p>Feel free to use, modify or adapt &nbsp;this sample source code to integrate the printing functionalities of the SmartD90 photo printer &nbsp;to your applications.</p>
+<p>&nbsp;</p>
 <h2>Contact:</h2>
 <p>For more information about how to integrate into an Android smartphone project the SmartD90 dye sublimation photo printer made by Mitsubishi Electric contact: <a href="mailto:eduardo.garcia@sp.mee.com">eduardo.garcia@sp.mee.com</a></p>
 <p>&nbsp;</p>
