@@ -16,7 +16,7 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>The MainActivity class contains the main user interface ciontrols and the methods to open&nbsp;an image from the Smartphone.</p>
+<p>The MainActivity class contains the main user interface controls and the methods to open&nbsp;an image from the Smartphone.</p>
 <p>The SettingFragment provides the user interface to set up the client FTP.</p>
 <p>The FtpFileTransfer class conatins the assync class to stablish an ftp connection with the SmartD90 Photo Printer and manage the file transfer (image file) into the hotfolder.</p>
 <p>Once the image file has been sent to Hotfolder of the SmartD90, the printing process&nbsp;will&nbsp;start according to the printer settings.</p>
