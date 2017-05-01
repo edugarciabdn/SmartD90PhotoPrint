@@ -19,7 +19,7 @@
 <p><a title="SmartD90 Photo Print Support" href="https://play.google.com/store/apps/details?id=com.smartd90photoprint&amp;hl=en" target="_blank"><img src="http://www.motionstudios.es/edu/php/smartd90/en_badge_web_generic.png" alt="Go to GooglePlay" width="387" height="150" /></a></p>
 <p>This App is not a Mitsubishi Electric product.</p>
 <p>For more information about how to integrate into an Android smartphone project the SmartD90 dye sublimation photo printer made by Mitsubishi Electric contact: eduardo.garcia@sp.mee.com</p>
-<h2>TERMS AND CONDITIONS</h2>
+<h2>LICENSE</h2>
 <p>Licensed under the Apache License, Version 2.0 (the "License");<br /> you may not use this file except in compliance with the License.<br /> You may obtain a copy of the License at</p>
 <p>http://www.apache.org/licenses/LICENSE-2.0</p>
 <p>Unless required by applicable law or agreed to in writing, software<br /> distributed under the License is distributed on an "AS IS" BASIS,<br /> WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br /> See the License for the specific language governing permissions and<br /> limitations under the License.</p>
