@@ -21,9 +21,10 @@
 <p>The FtpFileTransfer class conatins the assync class to stablish an ftp connection with the SmartD90 Photo Printer and manage the file transfer (image file) into the hotfolder.</p>
 <p>Once the image file has been sent to Hotfolder of the SmartD90, the printing process&nbsp;will&nbsp;start according to the printer settings.</p>
 <p>&nbsp;</p>
-<h2><strong>Target:</strong></h2>
+<h2><strong>Target</strong></h2>
 <p>from Android SDK 25</p>
 <p>&nbsp;</p>
+<h2><strong>Disclaimer</strong></h2>
 <p><strong><span style="text-decoration: underline;">This App is not a Mitsubishi Electric product.</span></strong></p>
 <p>&nbsp;</p>
 <p>Feel free to use, modify or adapt &nbsp;this sample source code to integrate the printing functionalities of the SmartD90 photo printer &nbsp;to your applications.</p>
