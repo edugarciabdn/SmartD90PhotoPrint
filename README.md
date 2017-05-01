@@ -16,10 +16,21 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><a title="SmartD90 Photo Print Support" href="https://play.google.com/store/apps/details?id=com.smartd90photoprint&amp;hl=en" target="_blank"><img src="http://www.motionstudios.es/edu/php/smartd90/en_badge_web_generic.png" alt="Go to GooglePlay" width="387" height="150" /></a></p>
-<p>This App is not a Mitsubishi Electric product.</p>
+<p>The MainActivity class contains the main user interface ciontrols and the methods to open&nbsp;an image from the Smartphone.</p>
+<p>The SettingFragment provides the user interface to set up the client FTP.</p>
+<p>The FtpFileTransfer class conatins the assync class to stablish an ftp connection with the SmartD90 Photo Printer and manage the file transfer (image file) into the hotfolder.</p>
+<p>Once the image file has been sent to Hotfolder of the SmartD90, the printing process&nbsp;will&nbsp;start according to the printer settings.</p>
+<p>&nbsp;</p>
+<h2><strong>Target:</strong></h2>
+<p>from Android SDK 25</p>
+<p>&nbsp;</p>
+<p><strong><span style="text-decoration: underline;">This App is not a Mitsubishi Electric product.</span></strong></p>
+<p>&nbsp;</p>
+<h2>Contact:</h2>
 <p>For more information about how to integrate into an Android smartphone project the SmartD90 dye sublimation photo printer made by Mitsubishi Electric contact: eduardo.garcia@sp.mee.com</p>
 <h2>LICENSE</h2>
 <p>Licensed under the Apache License, Version 2.0 (the "License");<br /> you may not use this file except in compliance with the License.<br /> You may obtain a copy of the License at</p>
 <p>http://www.apache.org/licenses/LICENSE-2.0</p>
 <p>Unless required by applicable law or agreed to in writing, software<br /> distributed under the License is distributed on an "AS IS" BASIS,<br /> WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br /> See the License for the specific language governing permissions and<br /> limitations under the License.</p>
+<p>&nbsp;</p>
+<p>&lt;p&gt;&lt;a title="SmartD90 Photo Print Support" href="https://play.google.com/store/apps/details?id=com.smartd90photoprint&amp;amp;hl=en" target="_blank"&gt;&lt;img src="http://www.motionstudios.es/edu/php/smartd90/en_badge_web_generic.png" alt="Go to GooglePlay" width="387" height="150" /&gt;&lt;/a&gt;&lt;/p&gt;</p>
