@@ -36,4 +36,6 @@
 <p>Licensed under the Apache License, Version 2.0 (the "License");<br /> you may not use this file except in compliance with the License.<br /> You may obtain a copy of the License at</p>
 <p>http://www.apache.org/licenses/LICENSE-2.0</p>
 <p>Unless required by applicable law or agreed to in writing, software<br /> distributed under the License is distributed on an "AS IS" BASIS,<br /> WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br /> See the License for the specific language governing permissions and<br /> limitations under the License.</p>
+<p>&nbsp;</p>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,<br />EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF<br />MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND<br />NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE<br />LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION<br />OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION<br />WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 <p>&nbsp;<a title="SmartD90 Photo Print Support App" href="https://play.google.com/store/apps/details?id=com.smartd90photoprint&amp;hl=en" target="_blank"><img src="http://www.motionstudios.es/edu/php/smartd90/en_badge_web_generic.png" alt="" width="452" height="175" /></a></p>
