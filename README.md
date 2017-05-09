@@ -30,7 +30,7 @@
 <p>Feel free to use, modify or adapt &nbsp;this sample source code to integrate the printing functionalities of the SmartD90 photo printer &nbsp;to your applications.</p>
 <p>&nbsp;</p>
 <h2>Contact:</h2>
-<p>For more information about how to integrate into an Android smartphone project the SmartD90 dye sublimation photo printer made by Mitsubishi Electric contact: <a href="mailto::edugarcia.bdn@gmail.com">eduardo.garcia@sp.mee.com</a></p>
+<p>For more information about how to integrate into an Android smartphone project the SmartD90 dye sublimation photo printer made by Mitsubishi Electric contact: <a href="mailto::edugarcia.bdn@gmail.com">Eduardo Garcia/a></p>
 <p>&nbsp;</p>
 <h2>LICENSE</h2>
 <p>Licensed under the Apache License, Version 2.0 (the "License");<br /> you may not use this file except in compliance with the License.<br /> You may obtain a copy of the License at</p>
